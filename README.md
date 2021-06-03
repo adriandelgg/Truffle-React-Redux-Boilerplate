@@ -1,5 +1,9 @@
 Truffle, React, Redux Toolkit, Web3.js boilerplate
 
+
+## What it's for
+
+Currently it's a nightmare and takes forever trying to get React working with Truffle, let alone with Redux. This template is made so you can easily bootstrap your project and get developing right away without all the configurations.
 ## Getting Started
 
 2 ways to use:
