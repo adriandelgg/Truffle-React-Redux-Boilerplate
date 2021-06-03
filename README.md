@@ -17,10 +17,10 @@ After clone or template:
    npm install
    ```
 
-### More Info
+## More Info
 
 `truffle.config` file is set to work with Ganache GUI out of the box. All you have to do is connect your contracts to Ganache through Ganache to start developing and testing locally.
 
-###### Hope you found it helpful!
+### Hope you found it helpful!
 
 Make sure to ⭐ & follow. :)
